@@ -1,0 +1,14 @@
+transformers>=4.35.0
+datasets>=2.14.0
+evaluate
+rouge_score
+torch
+pandas
+numpy
+google-maps-reviews-scraper
+playwright
+sentencepiece
+nltk
+tqdm
+scikit-learn
+streamlit
