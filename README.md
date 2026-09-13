@@ -1,4 +1,4 @@
-# top and worst k dish in a restaurant 
+# top and worst k dishes in a restaurant 
 
 Scrapes Google reviews from restaurants and recommends the best and worst dishes based on customer sentiment.
 
