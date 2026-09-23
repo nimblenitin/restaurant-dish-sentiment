@@ -1,5 +1,5 @@
 
-<h1>Restaurant Dish Recommender</h1>
+<h1>Restaurant dish sentiment</h1>
 
 ## Overview
 This project helps users find the best dishes at their favorite restaurants by analyzing Google Maps reviews using advanced Natural Language Processing (NLP) techniques. By inputting a Google Maps restaurant link, the app identifies the top dishes in terms of user rating, popularity, and health. Restaurant Dish Recommender eliminates the need for users to spend time sifting through countless reviews to find the best dishes, making it easier for them to make informed decisions about what to order. Additionally, the health score shows the calorie content of each dish, promoting a balanced diet and overall healthier lifestyle.
